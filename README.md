@@ -22,6 +22,13 @@ Features:
 3. Install extension live server
 4. Open the index.html page and click on go live on the bottom of the screen
 
+**Adding Images to help visualize the project**
+
+**<img width="1194" height="938" alt="image" src="https://github.com/user-attachments/assets/d5d01680-7423-4154-b735-8933bf35e5cf" />
+**
+<img width="1149" height="1367" alt="image" src="https://github.com/user-attachments/assets/84cae80f-b6d2-4490-b803-dfb82adcc8a7" />
+
+
 
 
 
